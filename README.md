@@ -100,7 +100,7 @@
 </picture>
 </div>
 
-> ⚠️ **Aktifkan snake:** Buat GitHub Action dari [platane/snk](https://github.com/platane/snk) agar animasi muncul.
+
 
 ---
 
