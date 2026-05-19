@@ -1,46 +1,61 @@
-<h1 align="center">Hi there, I'm Kanaya Traylingga Pratama! 👋</h1>
-<h3 align="center">Informatics Engineering Student | Builder | Leader</h3>
+<div align="center">
+  <!-- Banner Image (Menggunakan gambar dari kode Anda) -->
+  <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuAsDgDzReRkxkaYJ6iHQS8hDCvJy4xDV_lipdR3uQjdsRND9GX-h94BNtAvtwuiGy2mNpi6SxgQZV6jLbMWd5MNiPF4z7NkhdWJ_aKAP-yHpHNALHC4koTWMyNhI-LZE_0kFTnRG8-WmMjmCfHsk8X-X6-t4ti2kJ06cDJDdv4Tfiz1bno697mmCmpEnLUPVsh8r_s6ewM0BaGOn50K-Zr1dGmD-yrQOjKoqUwul3eFAC1SNeSIJjZ2OiIRtGNRozu7WLfeRgwLRMQj" alt="DevProfile Banner" width="100%" style="border-radius: 12px;"/>
+</div>
+
+<br>
+
+<h1 align="center">Kanaya Traylingga Pratama</h1>
+<p align="center"><code style="color: #7bdb80;">Building digital experiences with code.</code></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Passionate+about+System+Arch;Building+Web+%26+Embedded+Systems;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-002f68?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-10141a?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181c22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-## 🧑‍💻 About Me
-- 🎓 Currently studying **Informatics Engineering** at **Universitas Lampung** (Class of 2024).
-- 🚀 Deep passion for the synergy between **software systems** and **electrical hardware**.
-- 🌱 Actively learning and building modern **Web Applications** & **Embedded Systems**.
-- 🤝 Active Member of **HIMATRO** (Technical Leadership & Organization).
-- 💬 Ask me about: **C++, Python, Tailwind CSS, and System Architecture**.
-- 📫 Reach out to me: **[Masukkan Email Anda di sini]** / **[Masukkan Link LinkedIn Anda]**
+<br>
 
-## 🛠️ Tech Stack & Tools
+<!-- BENTO BOX LAYOUT MENGGUNAKAN TABEL -->
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="60%" valign="top">
+      <h3 align="left">👨‍💻 About Me</h3>
+      <p align="left">
+        Informatics Engineering student at Universitas Lampung and Full-stack architect with a passion for <b style="color: #7bdb80;">system design</b>, <b style="color: #acc7ff;">open-source</b>, and clean code principles. Currently bridging the gap between abstract algorithms and physical hardware.
+      </p>
+      <br>
+      <a href="https://github.com/Nayzzu">
+        <img src="https://github-readme-stats.vercel.app/api?username=Nayzzu&show_icons=true&bg_color=10141a&title_color=7bdb80&icon_color=7bdb80&text_color=dfe2eb&border_color=31353c&border_radius=10&hide_border=true" width="100%" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="40%" valign="top">
+      <h3 align="left">🚀 Top Languages</h3>
+      <a href="https://github.com/Nayzzu">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayzzu&layout=compact&bg_color=10141a&title_color=7bdb80&text_color=dfe2eb&border_color=31353c&border_radius=10&hide_border=true" width="100%" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+<br>
 
-## 📊 GitHub Stats
+<h3 align="left">🛠️ Tech Stack</h3>
+<table width="100%" style="background-color: #10141a; border: 1px solid #31353c; border-radius: 10px;">
+  <tr>
+    <td align="center" width="16%"><br><img src="https://skillicons.dev/icons?i=cpp" /><br><br><code style="color: #dfe2eb; background: transparent;">C++</code><br><br></td>
+    <td align="center" width="16%"><br><img src="https://skillicons.dev/icons?i=python" /><br><br><code style="color: #dfe2eb; background: transparent;">Python</code><br><br></td>
+    <td align="center" width="16%"><br><img src="https://skillicons.dev/icons?i=js" /><br><br><code style="color: #dfe2eb; background: transparent;">JavaScript</code><br><br></td>
+    <td align="center" width="16%"><br><img src="https://skillicons.dev/icons?i=html" /><br><br><code style="color: #dfe2eb; background: transparent;">HTML5</code><br><br></td>
+    <td align="center" width="16%"><br><img src="https://skillicons.dev/icons?i=tailwind" /><br><br><code style="color: #dfe2eb; background: transparent;">Tailwind</code><br><br></td>
+    <td align="center" width="16%"><br><img src="https://skillicons.dev/icons?i=linux" /><br><br><code style="color: #dfe2eb; background: transparent;">Linux</code><br><br></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayzzu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayzzu&theme=tokyonight&hide_border=true&background=0a0f1e" alt="GitHub Streak" />
-</p>
+<br>
 
-## ⚡ Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayzzu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e" alt="Top Languages" />
-</p>
-
----
-<p align="center">
-  <i>"Bridging the gap between abstract algorithms and physical implementations."</i>
-</p>
+<h3 align="left">📈 Contribution Activity</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayzzu&bg_color=10141a&color=7bdb80&line=7bdb80&point=dfe2eb&area=true&hide_border=true&custom_title=Contributions%20Graph" alt="Contribution Graph" width="100%"/>
+</div>
