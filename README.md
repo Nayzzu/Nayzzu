@@ -10,7 +10,7 @@
 
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanaya-traylingga/)
-[![Instagram](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://instagram.com/kanayatraylingga)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kanayatraylingga)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7BDB80?style=for-the-badge&logo=vercel&logoColor=black)](https://nayzzu-web.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayzzu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanayaaa19@gmail.com)
