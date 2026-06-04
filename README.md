@@ -66,10 +66,6 @@
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nayzzu&show_icons=true&count_private=true&bg_color=0d1117&title_color=7bdb80&icon_color=7bdb80&text_color=c9d1d9&border_color=21262d&border_radius=10&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nayzzu&layout=compact&bg_color=0d1117&title_color=7bdb80&text_color=c9d1d9&border_color=21262d&border_radius=10&langs_count=8" alt="Top Languages"/>
 
-<br/>
-
-<img width="70%" src="github-readme-streak-stats.herokuapp.com?user=Nayzzu&theme=github-dark-blue&border_radius=10&background=0D1117&border=21262D&ring=7BDB80&fire=FFA500&currStreakLabel=7BDB80&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-
 </div>
 
 ---
