@@ -68,7 +68,7 @@
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Nayzzu&theme=github-dark-blue&border_radius=10&background=0D1117&border=21262D&ring=7BDB80&fire=FFA500&currStreakLabel=7BDB80&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img width="70%" src="github-readme-streak-stats.herokuapp.com?user=Nayzzu&theme=github-dark-blue&border_radius=10&background=0D1117&border=21262D&ring=7BDB80&fire=FFA500&currStreakLabel=7BDB80&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
